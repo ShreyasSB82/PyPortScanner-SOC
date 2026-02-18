@@ -26,7 +26,6 @@ port-scanner/
 
 - port_scanner.py
 - README.md
-- report.txt (generated after scanning)
 
 ## Usage
 
