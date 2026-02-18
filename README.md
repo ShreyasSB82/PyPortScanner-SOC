@@ -33,4 +33,5 @@ port-scanner/
 Run the script:
 
 ```bash
-python port_scanner.py
+python portscan.py
+
